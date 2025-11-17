@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=Rabbit
-comment0.text=\r\n\ Rabbit\ Class\r\n\ Represents\ prey\ in\ the\ simulation\r\n
-comment1.params=world\ position
-comment1.target=Rabbit(Field,\ Position)
-comment2.params=newborns
-comment2.target=void\ behave(java.util.List)
-numComments=3
