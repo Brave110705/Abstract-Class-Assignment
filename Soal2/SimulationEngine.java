@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Simulation Engine Class
- * Runs and manages the ecosystem simulation
- */
 public class SimulationEngine {
     private Field world;
     private List<Animal> animals;
@@ -35,10 +31,6 @@ public class SimulationEngine {
         }
     }
 
-    /**
-     * Spawn initial foxes and rabbits into the simulation based on probabilities.
-     * Uses separate probability checks for each animal type (independent checks).
-     */
     private void spawnInitialAnimals() {
         for (int row = 0; row < world.getHeight(); row++) {
             for (int col = 0; col < world.getWidth(); col++) {
