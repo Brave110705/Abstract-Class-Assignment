@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Fox
+comment0.text=\r\n\ Fox\ Class\r\n\ Represents\ a\ predator\ in\ the\ simulation\r\n
+comment1.params=world\ position
+comment1.target=Fox(Field,\ Position)
+comment2.params=newborns
+comment2.target=void\ behave(java.util.List)
+comment3.params=
+comment3.target=Position\ searchForFood()
+numComments=4

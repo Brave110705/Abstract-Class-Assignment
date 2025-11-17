@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Position
+comment0.text=\r\n\ Support\ Class\:\ Position\r\n\ Represents\ a\ specific\ coordinate\ in\ the\ field/grid\r\n
+comment1.params=row\ col
+comment1.target=Position(int,\ int)
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+numComments=4

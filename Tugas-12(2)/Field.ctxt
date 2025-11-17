@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Field
+comment0.text=\r\n\ Support\ Class\:\ Field\r\n\ Represents\ the\ environment/grid\ where\ animals\ live\r\n
+comment1.params=height\ width
+comment1.target=Field(int,\ int)
+comment2.params=
+comment2.target=int\ getHeight()
+comment3.params=
+comment3.target=int\ getWidth()
+comment4.params=pos
+comment4.target=void\ clear(Position)
+comment5.params=obj\ pos
+comment5.target=void\ place(java.lang.Object,\ Position)
+comment6.params=pos
+comment6.target=java.lang.Object\ getObjectAt(Position)
+comment7.params=pos
+comment7.target=Position\ getFreeAdjacentPosition(Position)
+comment8.params=pos
+comment8.target=java.util.List\ getAdjacentPositions(Position)
+comment9.params=
+comment9.target=void\ printFieldWithStats()
+numComments=10

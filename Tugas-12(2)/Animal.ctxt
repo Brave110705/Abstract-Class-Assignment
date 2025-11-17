@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Abstract\ Animal\ Class\r\n\ Represents\ the\ common\ traits\ for\ all\ animals\ in\ the\ simulation.\r\n
+comment1.params=
+comment1.target=boolean\ isAlive()
+comment2.params=
+comment2.target=void\ die()
+comment3.params=newborns
+comment3.target=void\ behave(java.util.List)
+numComments=4
